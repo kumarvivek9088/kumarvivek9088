@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Vivek Kumar, currently persuing B.Tech Computer Science. I am intrested in Backend Engineering, App Development and Machine Learning, Full Stack Developer.
 <!--
 **kumarvivek9088/kumarvivek9088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
